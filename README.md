@@ -1,4 +1,4 @@
-👨‍💻 About Me<br>BSc(Hons) Computer Science @ Beaconhouse National University (2021-2025)<br>🚀 Currently interning in .<br>🧠 AI Researcher, passionate about machine learning and data science.<br>🛠️ Skills<br>Languages: C++, Java, Python, Go, JavaScript, PHP<br>Frameworks & Tools: React, NEXT, Angular, TensorFlow, FreeSWITCH, PostgreSQL, MongoDB, Redis, Linux Server, ClickHouse<br>Databases: Firebase, SQL, PostgreSQL, MongoDB
+👨‍💻 About Me<br>BSc(Hons) Computer Science @ Beaconhouse National University (2021-2025)<br>🚀 Currently interning in Contact Center Specialists.<br>🧠 AI Researcher, passionate about machine learning and data science.<br>🛠️ Skills<br>Languages: C++, Java, Python, Go, JavaScript, PHP<br>Frameworks & Tools: React, NEXT, Angular, TensorFlow, FreeSWITCH, PostgreSQL, MongoDB, Redis, Linux Server, ClickHouse<br>Databases: Firebase, SQL, PostgreSQL, MongoDB
 
 
 ## 🌐 Socials:
