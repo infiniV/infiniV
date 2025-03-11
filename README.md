@@ -5,9 +5,9 @@ BSc(Hons) Computer Science @ Beaconhouse National University (2021-2025)
 
 ---
 
-## ⚫️ Current Projects
-- **[blip-v2-front](https://blip-v2-front.vercel.app/)**  
-  A modern frontend interface for Blip V2.
+## ⚫️ Current Active Projects
+- **[blip](https://blip-v2-front.vercel.app/)**  
+  An AI Video Asset generator.
 - **[Conversate](https://conversate-wrld-xi.vercel.app/)**  
   An AI-powered conversation platform.
 
