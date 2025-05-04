@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Raahim Arbaz
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raahim-arbaz-7aa4a5327)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raahim-arbaz)  
 [![Email](https://img.shields.io/badge/Email-raahim.arbaz22%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raahim.arbaz22@gmail.com)  
 [![Website](https://img.shields.io/badge/Website-infiniv.tech-0a0a0a?style=for-the-badge&logo=netlify&logoColor=white)](https://www.infiniv.tech/)  
 [![GitHub](https://img.shields.io/badge/GitHub-infiniV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infiniV)
