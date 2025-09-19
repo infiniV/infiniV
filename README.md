@@ -6,11 +6,14 @@
 > Lahore, Pakistan
 ```
 
+![commits](https://img.shields.io/github/commit-activity/t/infiniV/infiniV?style=flat&logo=github&label=commits&color=black)
 [![linkedin](https://img.shields.io/badge/-raahim--arbaz-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/raahim-arbaz)
 [![email](https://img.shields.io/badge/-raahim.arbaz22@gmail.com-black?style=flat&logo=gmail)](mailto:raahim.arbaz22@gmail.com)
 [![website](https://img.shields.io/badge/-infiniv.tech-black?style=flat&logo=internetexplorer)](https://www.infiniv.tech/)
 
 ---
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=dark&hide_border=true&background=000&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff)
 
 ## Stack
 
@@ -44,4 +47,3 @@ Multi-role e-learning portal with PostgreSQL backend and DigitalOcean Spaces int
 **NeurIPS 2024 Workshop** — Co-authored paper on satellite imagery pollution detection using transformer models and CLIP-based filtering (99% irrelevant data reduction)
 
 ---
-
