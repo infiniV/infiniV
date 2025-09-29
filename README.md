@@ -32,7 +32,7 @@
 ## Projects
 
 **[Android-Ui-MCP](https://github.com/infiniV/Android-Ui-MCP)**  
-TypeScript-based mobile component protocol with Docker containerization for Android UI development
+TypeScript-based model context protocol with Docker containerization for Android UI development
 
 **[Conversate](https://conversate-wrld-xi.vercel.app/)**  
 AI customer support platform with real-time voice transcription, GPT reasoning, and automated container orchestration
