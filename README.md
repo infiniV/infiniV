@@ -1,113 +1,137 @@
 <div align="center">
 
-# Raahim Arbaz
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Raahim+Arbaz)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=D4AF37&background=0D0D0D00&center=true&vCenter=true&width=435&lines=AI+Systems+Architecture;Full-Stack+Engineering;Machine+Learning+Research)](https://git.io/typing-svg)
+<h3 align="center">Machine Learning · Research · Full-Stack Engineering</h3>
 
-<br/>
+<p align="center">
+  <a href="https://infiniv.tech"><img src="https://img.shields.io/badge/infiniv.tech-0A0A0A?style=for-the-badge&logo=safari&logoColor=D4AF37"/></a>
+  <a href="https://linkedin.com/in/raahim-arbaz"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
+  <a href="mailto:raahim.arbaz22@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
+  <a href="https://github.com/infiniV"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
+</p>
 
-**INFINIV** • **LAHORE, PK**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![](https://img.shields.io/badge/infiniv.tech-0d0d0d?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkwyMiAyMkwxMiAyWiIgZmlsbD0iI0Q0QUYzNyIvPgo8L3N2Zz4=&labelColor=0d0d0d&color=0d0d0d)](https://infiniv.tech)
-[![](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat&logo=linkedin&logoColor=d4af37&labelColor=0d0d0d&color=0d0d0d)](https://linkedin.com/in/raahim-arbaz)
-[![](https://img.shields.io/badge/Email-0d0d0d?style=flat&logo=gmail&logoColor=d4af37&labelColor=0d0d0d&color=0d0d0d)](mailto:raahim.arbaz22@gmail.com)
-[![](https://img.shields.io/badge/GitHub-0d0d0d?style=flat&logo=github&logoColor=d4af37&labelColor=0d0d0d&color=0d0d0d)](https://github.com/infiniV)
+<table>
+  <tr>
+    <td width="50%">
+      
+## 📊 Current Stats
+      
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=dark&hide_border=true&background=0A0A0A00&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=888888" width="100%"/>
+
+    </td>
+    <td width="50%">
+
+## 🎯 Activity
+      
+<img src="https://github-readme-stats.vercel.app/api?username=infiniV&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A00&title_color=D4AF37&text_color=888888&icon_color=D4AF37&hide=issues" width="100%"/>
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Android-UI-MCP</h3>
+      <div align="center">
+        <a href="https://github.com/infiniV/Android-Ui-MCP">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        </a>
+        <p><strong>Model Context Protocol</strong></p>
+        <p>Android UI automation framework with real-time component generation</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Conversate</h3>
+      <div align="center">
+        <a href="https://conversate-wrld-xi.vercel.app">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/>
+        </a>
+        <p><strong>AI Customer Support</strong></p>
+        <p>Real-time voice transcription with WebRTC & container orchestration</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">BLIP</h3>
+      <div align="center">
+        <a href="https://blip-v2-front.vercel.app">
+          <img src="https://img.shields.io/badge/SDXL-FF6B6B?style=flat-square&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+        </a>
+        <p><strong>AI Video Generation</strong></p>
+        <p>Prompt → Script → Image → Video pipeline with GPU acceleration</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Women Empowerment Platform</h3>
+      <div align="center">
+        <a href="https://wetbnu.com">
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        </a>
+        <p><strong>E-Learning Platform</strong></p>
+        <p>Multi-tenant RBAC with PostgreSQL & DigitalOcean Spaces</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📚 Research
 
 <div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <strong>NeurIPS 2024 Workshop</strong><br/>
+      <sub>Satellite Imagery Pollution Detection</sub><br/>
+      <code>Vision Transformers</code> <code>CLIP: 99% noise reduction</code> <code>mAP@0.5: 0.87</code>
+    </td>
+  </tr>
+</table>
+</div>
 
-## PORTFOLIO
+## 🛠️ Tech Stack
 
-| **EXPERIENCE** | **EDUCATION** | **SKILLS** | **ACHIEVEMENTS** |
-|:---:|:---:|:---:|:---:|
-| Work History | Academic Background | Technical Expertise | Recognition |
+<div align="center">
+  
+![Go](https://img.shields.io/badge/-Go-0A0A0A?style=flat-square&logo=go&logoColor=D4AF37&logoWidth=20)
+![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat-square&logo=python&logoColor=D4AF37&logoWidth=20)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=D4AF37&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=D4AF37&logoWidth=20)
+![React](https://img.shields.io/badge/-React-0A0A0A?style=flat-square&logo=react&logoColor=D4AF37&logoWidth=20)
+![Next.js](https://img.shields.io/badge/-Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=D4AF37&logoWidth=20)
+![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=D4AF37&logoWidth=20)
+![Docker](https://img.shields.io/badge/-Docker-0A0A0A?style=flat-square&logo=docker&logoColor=D4AF37&logoWidth=20)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=D4AF37&logoWidth=20)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=D4AF37&logoWidth=20)
+![Redis](https://img.shields.io/badge/-Redis-0A0A0A?style=flat-square&logo=redis&logoColor=D4AF37&logoWidth=20)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=D4AF37&logoWidth=20)
 
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=infiniV&custom_title=903%20Contributions%20in%20the%20last%20year&hide_border=true&bg_color=0A0A0A&color=D4AF37&line=D4AF37&point=FFFFFF&area_color=D4AF37&area=true&title_color=D4AF37" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infiniV&theme=github_dark&hide_border=true" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-
-## PROJECTS
-
-</div>
-
-**[Android-UI-MCP](https://github.com/infiniV/Android-Ui-MCP)**  
-`TypeScript` `Docker` `MCP SDK` • Model context protocol for Android UI automation
-
-**[Conversate](https://conversate-wrld-xi.vercel.app/)**  
-`Go` `GPT-4` `WebRTC` • Real-time AI customer support with voice transcription
-
-**[BLIP](https://blip-v2-front.vercel.app/)**  
-`SDXL` `MoviePy` `Celery` • Prompt → Script → Image → Video generation pipeline
-
-**[Women Empowerment Platform](https://wetbnu.com/)**  
-`PostgreSQL` `Prisma` `DigitalOcean` • Multi-tenant e-learning with RBAC
-
----
-
-<div align="center">
-
-## PUBLICATIONS
-
-**NeurIPS 2024 Workshop**  
-Satellite imagery pollution detection using vision transformers  
-`CLIP: 99% noise reduction` • `mAP@0.5: 0.87`
-
-</div>
-
----
-
-<div align="center">
-
-## STACK
-
-![Go](https://skillicons.dev/icons?i=go&theme=dark)
-![Python](https://skillicons.dev/icons?i=python&theme=dark)
-![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
-![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Next](https://skillicons.dev/icons?i=nextjs&theme=dark)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-## 903 CONTRIBUTIONS
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=dark&hide_border=true&background=0D0D0D&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=D4AF37" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infiniV&theme=github_dark&hide_border=true" width="100%"/>
-
-<br/>
-
-<!-- Custom stylized commit calendar -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=infiniV&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=D4AF37&icon_color=D4AF37&hide=issues,prs&count_private=true&show=reviews,commits,contribs">
-  <img src="https://github-readme-stats.vercel.app/api?username=infiniV&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=D4AF37&icon_color=D4AF37&hide=issues,prs&count_private=true&show=reviews,commits,contribs" width="48%"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=infiniV&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=D4AF37&icon_color=D4AF37">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infiniV&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=D4AF37&icon_color=D4AF37" width="48%"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-**Available for full-time opportunities and consulting projects**
-
+  <sub>Available for full-time opportunities and consulting projects</sub>
 </div>
