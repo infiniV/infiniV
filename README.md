@@ -58,7 +58,6 @@ Co-authored research on satellite imagery pollution detection using transformer 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=infiniV&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
 
 </div>
