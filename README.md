@@ -1,52 +1,65 @@
 # Raahim Arbaz
 
-```
-> Building AI-driven systems & scalable architectures
-> CS @ Beaconhouse National University | AI Researcher @ SCIT CAIR
-> Lahore, Pakistan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF88&background=00000000&vCenter=true&width=500&height=20&lines=AI+Systems+%7C+Full-Stack+Engineering+%7C+Research)](https://git.io/typing-svg)
+
+```yaml
+location: Lahore, PK
+role: CS @ BNU | AI Research @ SCIT CAIR
+focus: Scalable AI Infrastructure
 ```
 
-![commits](https://img.shields.io/github/commit-activity/t/infiniV/infiniV?style=flat&logo=github&label=commits&color=black)
-[![linkedin](https://img.shields.io/badge/-raahim--arbaz-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/raahim-arbaz)
-[![email](https://img.shields.io/badge/-raahim.arbaz22@gmail.com-black?style=flat&logo=gmail)](mailto:raahim.arbaz22@gmail.com)
-[![website](https://img.shields.io/badge/-infiniv.tech-black?style=flat&logo=internetexplorer)](https://www.infiniv.tech/)
+[![](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel)](https://infiniv.tech)
+[![](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin)](https://linkedin.com/in/raahim-arbaz)
+[![](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail)](mailto:raahim.arbaz22@gmail.com)
 
 ---
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=dark&hide_border=true&background=000&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff&body=000&border=000000)
+### Stack
 
-## Stack
-
-![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Go](https://skillicons.dev/icons?i=go)
+![Python](https://skillicons.dev/icons?i=python)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Docker](https://skillicons.dev/icons?i=docker)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Redis](https://skillicons.dev/icons?i=redis)
 
 ---
 
-## Projects
+### Projects
 
-**[Android-Ui-MCP](https://github.com/infiniV/Android-Ui-MCP)**  
-TypeScript-based model context protocol with Docker containerization for Android UI development
+**[Android-UI-MCP](https://github.com/infiniV/Android-Ui-MCP)**  
+`TypeScript` `Docker` `MCP SDK` — Model context protocol for Android UI automation
 
 **[Conversate](https://conversate-wrld-xi.vercel.app/)**  
-AI customer support platform with real-time voice transcription, GPT reasoning, and automated container orchestration
+`Go` `GPT-4` `WebRTC` — Real-time AI customer support with voice transcription
 
 **[BLIP](https://blip-v2-front.vercel.app/)**  
-AI slideshow generator: prompt → script → images → narration pipeline using GPT, Diffusers, and MoviePy
+`SDXL` `MoviePy` `Celery` — Prompt → Script → Image → Video generation pipeline
 
 **[Women Empowerment Platform](https://wetbnu.com/)**  
-Multi-role e-learning portal with PostgreSQL backend and DigitalOcean Spaces integration
+`PostgreSQL` `Prisma` `DigitalOcean` — Multi-tenant e-learning with RBAC
 
 ---
 
-## Research
+### Research
 
-**NeurIPS 2024 Workshop** — Co-authored paper on satellite imagery pollution detection using transformer models and CLIP-based filtering (99% irrelevant data reduction)
+**NeurIPS 2024** — Satellite imagery pollution detection using vision transformers  
+`CLIP filtering: 99% noise reduction` `mAP@0.5: 0.87`
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infiniV/infiniV/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infiniV/infiniV/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/infiniV/infiniV/output/github-contribution-grid-snake.svg">
+</picture>
+
+![](https://github-readme-stats.vercel.app/api?username=infiniV&show_icons=true&theme=dark&hide_border=true&bg_color=000&title_color=fff&icon_color=00ff88&text_color=fff&hide=issues,contribs)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=infiniV&theme=react-dark&hide_border=true&bg_color=000&color=00ff88&line=00ff88&point=fff&area=true&area_color=00ff88)
