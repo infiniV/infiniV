@@ -59,6 +59,5 @@ Co-authored research on satellite imagery pollution detection using transformer 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
-<img src="https://metrics.lecoq.io/infiniV?template=classic&base=&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FKarachi&config.theme=dark" height="200" />
 
 </div>
