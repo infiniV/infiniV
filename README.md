@@ -33,7 +33,3 @@ CS @ Beaconhouse National University | AI Researcher @ SCIT CAIR | NeurIPS '24 W
 NeurIPS 2024 Climate Change AI Workshop
 
 Co-authored research on satellite-based pollution detection using Vision Transformers and CLIP filtering, achieving 99% data reduction on 600K+ Sentinel-2 images.
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://github.com/infiniV)
