@@ -1,63 +1,39 @@
-<div align="center">
+# Raahim Arbaz
 
-# RAAHIM ARBAZ
+Software Engineer building AI systems and developer tools.
 
-```
-Building AI-driven systems & scalable architectures
-CS @ Beaconhouse National University | AI Researcher @ SCIT CAIR
-Lahore, Pakistan
-```
+CS @ Beaconhouse National University | AI Researcher @ SCIT CAIR | NeurIPS '24 Workshop Author
 
-[![website](https://img.shields.io/badge/infiniv.tech-000000?style=for-the-badge)](https://www.infiniv.tech/)
-[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raahim-arbaz)
-[![email](https://img.shields.io/badge/contact-000000?style=for-the-badge&logo=gmail)](mailto:raahim.arbaz22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/infiniv.tech-000000?style=flat-square)](https://www.infiniv.tech/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raahim-arbaz)
+[![Email](https://img.shields.io/badge/contact-000000?style=flat-square&logo=gmail)](mailto:raahim.arbaz22@gmail.com)
 
-</div>
+---
 
-##
+### Featured Work
 
-<div align="center">
+**[VoiceFlow](https://github.com/infiniV/VoiceFlow)** — Local-first voice dictation app powered by Whisper. GPU-accelerated, privacy-focused, runs entirely on your hardware.
+`TypeScript` `faster-whisper` `Pyloid`
 
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+---
 
-</div>
+### ML Projects
 
-##
+**[Vision-Dissect](https://github.com/infiniV/Vision-Dissect)** — CV model benchmarking framework dissecting 289+ layers across depth estimation, object detection, and segmentation models.
+`PyTorch` `ONNX` `Transformers`
 
-### **[Android-Ui-MCP](https://github.com/infiniV/Android-Ui-MCP)**
-Model Context Protocol server for AI-powered UI feedback across React Native, Flutter, and native Android  
-`TypeScript` `Docker` `MCP SDK`
+**[Anonator](https://github.com/infiniV/Anonator)** — GPU-accelerated video anonymization with multi-model face detection and HIPAA compliance mode.
+`YOLOv8` `OpenCV` `CUDA`
 
-### **[Conversate](https://conversate-wrld-xi.vercel.app/)**
-Real-time customer support platform with voice transcription, GPT reasoning, and automated orchestration  
-`Next.js` `FastAPI` `Docker` `PostgreSQL` `GPT-4`
+---
 
-### **[BLIP](https://blip-v2-front.vercel.app/)**
-Automated slideshow generation: prompt → script → images → narration → video  
-`GPT-4` `Stable Diffusion` `MoviePy`
+### Research
 
-### **[Women Empowerment Platform](https://wetbnu.com/)**
-E-learning portal serving 1,000+ users with multi-role access and video streaming  
-`Next.js` `PostgreSQL` `DigitalOcean Spaces`
+**Mapping Air Pollution Sources with Sequential Transformer Chaining**
+NeurIPS 2024 Climate Change AI Workshop
 
-##
+Co-authored research on satellite-based pollution detection using Vision Transformers and CLIP filtering, achieving 99% data reduction on 600K+ Sentinel-2 images.
 
-**NeurIPS 2024 Workshop** — Tackling Climate Change with Machine Learning  
-Co-authored research on satellite imagery pollution detection using transformer models and CLIP-based filtering achieving 99% data reduction  
-`Vision Transformers` `CLIP` `Sentinel-2`
+---
 
-##
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infiniV&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://github.com/infiniV)
