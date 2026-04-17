@@ -8,7 +8,7 @@ Computer vision engineer, based in Lahore. I do some research on the side and bu
 
 ## What I'm up to
 
-Leading CV at a clinical computer vision startup. In any given week I'm training a detection or segmentation model, chasing down why it behaves differently on a Jetson than it did on my desktop, or sitting with the annotation team over borderline frames. The models doing real work right now are YOLO11, SAM, and DepthPro. Getting ground-truth right in a clinical setting takes more attention than the ML itself, which is most of why I run that side too. Along the way I pulled in NVIDIA Inception and $10K of AWS Activate credits for the company.
+CV founding engineer at a clinical computer vision startup. I lead the annotation team, research new architectures, and run deployment and testing on edge hardware.
 
 ## Projects
 
