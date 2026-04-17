@@ -1,24 +1,20 @@
 # Raahim Arbaz
 
-Computer vision engineer. I also write the tooling and research around the models I ship.
-
-Based in Lahore. Remote.
+Computer vision engineer, based in Lahore. I do some research on the side and build the tooling I end up using.
 
 [![Portfolio](https://img.shields.io/badge/infiniv.dev-000000?style=flat-square)](https://www.infiniv.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raahim-arbaz)
 [![Email](https://img.shields.io/badge/contact-000000?style=flat-square&logo=gmail)](mailto:raahim.arbaz22@gmail.com)
 
-## Current work
+## What I'm up to
 
-Founding engineer on a clinical computer vision platform. I own the CV side end to end: PyTorch for training, ONNX for export, Jetson and CUDA for inference. Models in production are YOLO11, SAM, and DepthPro. I run the annotation team and sign off on clinical ground-truth. Pulled in NVIDIA Inception and $10K of AWS Activate credits for the company.
-
-Separately, I work as a full-stack engineer on an enterprise web platform for a German client. React and TypeScript on the front, Node, Express, and Postgres on the back. 177 commits and 25 merged PRs over the last six months. Most of that time went into an AI marketing content suite built on the Vercel AI SDK with Anthropic, and a real-time notification system running on SSE, BullMQ, and tab-leader sync.
+Leading CV at a clinical computer vision startup. In any given week I'm training a detection or segmentation model, chasing down why it behaves differently on a Jetson than it did on my desktop, or sitting with the annotation team over borderline frames. The models doing real work right now are YOLO11, SAM, and DepthPro. Getting ground-truth right in a clinical setting takes more attention than the ML itself, which is most of why I run that side too. Along the way I pulled in NVIDIA Inception and $10K of AWS Activate credits for the company.
 
 ## Projects
 
 | Project | About | Stack |
 |---------|-------|-------|
-| **[VoiceFlow](https://github.com/infiniV/VoiceFlow)** | Local voice dictation on faster-whisper. Runs on your GPU, nothing leaves your machine. 300+ stars. | `Python` `faster-whisper` `Pyloid` |
+| **[VoiceFlow](https://github.com/infiniV/VoiceFlow)** | Local voice dictation on faster-whisper. Runs on your GPU, nothing leaves your machine. | `Python` `faster-whisper` `Pyloid` |
 | **[Vision-Dissect](https://github.com/infiniV/Vision-Dissect)** | Cracks open CV models to compare layer activations and attention maps across YOLO11, SAM, and DepthPro. | `PyTorch` `ONNX` `Transformers` |
 | **[Android-Ui-MCP](https://github.com/infiniV/Android-Ui-MCP)** | MCP server for Android UI automation and testing workflows. | `TypeScript` `MCP` |
 | **[ultra-instinct-claude-code](https://github.com/infiniV/ultra-instinct-claude-code)** | 176 Claude Code tips distilled from 17 repos and 500k+ stars. Tagged by difficulty, nothing to install. | `Research` `Docs` |
