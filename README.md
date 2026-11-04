@@ -21,10 +21,12 @@ CV founding engineer at a clinical computer vision startup. I lead the annotatio
 
 ## Research
 
+**Why does π₀ forget to speak? Model stitching locates different captioning failures in π₀ and π₀.₅**  
+UniReps 2026 (NeurIPS workshop). Accepted. Lead author.
+
+Robot VLAs fine-tuned from PaliGemma stop captioning images. Swapping layers between each VLA and its parent, stitching their hidden states together with linear maps, and probing the image tokens showed the loss sits in different places: π₀'s image tokens lose object content, while π₀.₅ keeps usable representations but its output head and prompt no longer read them. Key tests pre-registered on sealed COCO sets.
+
 **Mapping Air Pollution Sources with Sequential Transformer Chaining**  
 NeurIPS 2024 Climate Change AI Workshop. Second author.
 
 Chained Vision Transformers with Remote CLIP to find factory and brick-kiln chimneys in South Asian satellite imagery. Filtered a 600K+ image dataset down to the ~1% that actually contained pollution sources. [Paper](https://arxiv.org/abs/2410.19629).
-
-**LocaGraph: Learning Localized Graph Attention with Anisotropic Adaptation**  
-NeurIPS 2025 submission. Lead author. Graph neural networks for spatial data, under review.
