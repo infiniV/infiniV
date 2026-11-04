@@ -29,4 +29,4 @@ Robot VLAs fine-tuned from PaliGemma stop captioning images. Swapping layers bet
 **Mapping Air Pollution Sources with Sequential Transformer Chaining**  
 NeurIPS 2024 Climate Change AI Workshop. Second author.
 
-Chained Vision Transformers with Remote CLIP to find factory and brick-kiln chimneys in South Asian satellite imagery. Filtered a 600K+ image dataset down to the ~1% that actually contained pollution sources. [Paper](https://arxiv.org/abs/2410.19629).
+Chained Vision Transformers with Remote CLIP to find factory and brick-kiln chimneys in South Asian satellite imagery. Filtered a 600K+ image dataset down to the ~1% that actually contained pollution sources. [Paper](https://www.climatechange.ai/papers/neurips2024/6).
